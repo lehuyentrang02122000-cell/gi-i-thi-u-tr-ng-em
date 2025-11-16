@@ -1,0 +1,14 @@
+.anh{
+    display:block; margin-left: auto; margin-right: auto;
+}
+#ảnh{
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+}
+
+article .new_items img{
+    width: 78%;
+    padding: 2%
+    float: left;
+}
